@@ -169,15 +169,15 @@ By following these steps, you can create a Retrieval-Augmented Generation (RAG) 
 
 ### How It Helps Users
 **Access to Recipes**:
-
 Users can ask the chatbot for specific Italian recipes, and it will provide concise and detailed instructions based on the recipes from the PDF.
+
 **Cooking Advice**:
-
 The chatbot can give cooking tips and methods, guiding users through the preparation of various Italian dishes.
+
 **Efficient Information Retrieval**:
-
 By using a vector database and semantic search, the chatbot quickly finds and presents the most relevant information from the PDF, saving users time and effort.
-**Interactive Learning**:
 
+**Interactive Learning**:
 Users can learn about Italian cuisine in an interactive manner, asking follow-up questions and getting immediate answers.
+
 This application enhances the user's cooking experience by providing quick and helpful information about Italian recipes and cooking techniques.
